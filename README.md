@@ -20,4 +20,4 @@
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | 49.01 | 28.33 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | 47.96 | 85.67 |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | 100.00 | 95.41 |
-20. Valid Parentheses https://leetcode.com/problems/valid-parentheses/ 100.00 40.52
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | 100.00 | 40.52 |
