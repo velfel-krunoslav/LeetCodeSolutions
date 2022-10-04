@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 void radixSort(int **arr_, int size)
 {
     int t = 0;
@@ -98,5 +94,5 @@ int maxArea(int h,
     int p = widestGap(horizontalCuts, horizontalCutsSize, h);
     int q = widestGap(verticalCuts, verticalCutsSize, w);
 
-    return p * q;
+    return (int)((long)p * q % 1000000007);
 }
